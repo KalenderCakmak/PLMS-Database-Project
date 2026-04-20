@@ -9,6 +9,8 @@ The Private Tutoring Management System is a database solution designed to addres
 - **Financial Tracking:** Automated monitoring of income, expenses, and payment statuses.
 - **Progress Monitoring:** Systematic recording of course progress and student performance.
 
+
+Group 21:
 Kalender ÇAKMAK
 Mert Can DOĞAN
 Nazakat Mammadova

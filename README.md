@@ -130,6 +130,9 @@ The following invalid inserts were tested and correctly rejected by the database
 
 ---
 
+Video Link:
+https://drive.google.com/file/d/1LYUrNpjLOEGZw8U6rOqCdqY0uEBT8bfD/view?usp=drive_link
+
 ## Project Info
 
 - **Course:** MTM4692
